@@ -16,7 +16,7 @@ HTML is a standard markup language for creating Web pages.
 - Create your base folder structure (images,index,html)
 
 ## Live Link
-- https://nashville7.github.io/html/index.html
+-https://nashville7.github.io/techmovies/index.html
 
 ## Prevalent Technologies Used
 
